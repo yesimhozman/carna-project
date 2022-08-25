@@ -25,7 +25,6 @@ Notifications: Students will see their completed modules and courses. They will 
 I added the animated pedagogical agent in chatbot part. Because it is important for the interaction with learners. 
 I put the chatbot button in navbar because it is one of the most important feature of carna. 
 
-![alt text](https://github.com/yesimnurakar/carna-project/blob/main/public/static/mock-images/covers/robot.PNG?raw=true)
 
 
 Home: 
@@ -53,7 +52,7 @@ Learners can review the courses they have completed. They can search on courses 
 
 Library: 
 There are book cards : image about the story, name of the story, author, the statistics about learner behaviors. Students can search on books and see its author, how many people have read, listen and share it. Students can suggest a new book to the library with the bottom at the top-right corner.
-
+![alt text](https://github.com/yesimnurakar/carna-project/blob/main/public/static/mock-images/covers/library.PNG?raw=true)
 Register:
 Designed based on figma. Students can register with their name, email, password and confirm password. They can also register with google-facebook-twitter.
 Login: 
@@ -61,6 +60,8 @@ Designed based on figma. Students can login with their email and password.
 ![alt text](https://github.com/yesimnurakar/carna-project/blob/main/public/static/mock-images/covers/sign-in.PNG?raw=true)
 
 ChatBot: There is just a simple chatbot. It is placed in a new page. Students can chat with the bot.
+
+![alt text](https://github.com/yesimnurakar/carna-project/blob/main/public/static/mock-images/covers/robot.PNG?raw=true)
 
 Dictionary: 
 It is provided by https://github.com/meetDeveloper/freeDictionaryAPI API. Students can search on the dictionary and see the definition, listen to the audio and check the example sentence.
@@ -70,3 +71,4 @@ It is provided by https://github.com/meetDeveloper/freeDictionaryAPI API. Studen
 
 exercise: 
 When any of the continue buttons on the cards in the course page are clicked, the exercise page will open.
+![alt text](https://github.com/yesimnurakar/carna-project/blob/main/public/static/mock-images/covers/quiz.PNG?raw=true)
